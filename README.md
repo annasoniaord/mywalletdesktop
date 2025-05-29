@@ -1,0 +1,2 @@
+# mywalletdesktop
+password 123
